@@ -2,4 +2,7 @@
   "manifest_version": 2,
   "name": "CHCal",
   "version": "1.0.0",
+  "default_locale": "en",
+  "description": "A free and open-source calculator extension for Chrome",
+  "icons": {...}
 }
