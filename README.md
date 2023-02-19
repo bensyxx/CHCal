@@ -23,4 +23,4 @@ CHCal is a free and open-source calculator for Chrome. It's a small extension an
 
 - After that, it should show up as a new extension. Pin it to the extensions bar and use it for whatever!
 
-> DISCLAIMER: Literally the whole base is on [geeksforgeeks](https://geeksforgeeksorg), the original article is [here](https://www.geeksforgeeks.org/html-calculator/).
+> DISCLAIMER: Literally the whole base is on [geeksforgeeks](https://geeksforgeeks.org), the original article is [here](https://www.geeksforgeeks.org/html-calculator/).
